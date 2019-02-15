@@ -42,7 +42,8 @@ def game_hash
 end
 
 def num_points_scored
-
+game_hash.each do |key, value|
+  puts 
 end
   
   
