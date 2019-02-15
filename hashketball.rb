@@ -41,10 +41,8 @@ def game_hash
   }
 end
 
-def num_points_scored(nums)
-  players.collect do |player_name,number|
-    number
-  end
+def num_points_scored
+
 end
   
   
